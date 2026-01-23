@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 I'm currently working on<br>Miniflix (Video Streaming Website), CYBRO (E-commerce Website), AI Voice Assistant & my Portfolio<br>🤝 I'm looking to collaborate on<br>Web Development Projects, Frontend Websites, and Beginner-Friendly Open Source Projects<br>🛠️ I'm looking for help with<br>Improving UI/UX, Backend Integration, and Deploying Projects Professionally<br>📚 I'm currently learning<br>Advanced JavaScript, Python Development, and Real-World Web Project Building<br>💬 Ask me about<br>HTML, CSS, JavaScript, Python, Website Projects, and Frontend Development<br>🏠 Currently looking for<br>Part-time Work From Home Web Development opportunities<br>⚡ Fun fact<br>I turn ideas into websites faster than my code compiles 😄⚡
+🌌 I'm currently working on<br>Miniflix (Video Streaming Website), CYBRO (E-commerce Website), AI Voice Assistant & my Portfolio<br>🤝 I'm looking to collaborate on<br>Front-End Projects, Frontend Websites, and Beginner-Friendly Open Source Projects<br>📚 I'm currently learning<br>Advanced JavaScript, Python Development, and Real-World Web Project Building<br>💬 Ask me about<br>HTML, CSS, JavaScript, Python, Website Projects, and Frontend Development<br>🏠 Currently looking for<br>Part-time Work From Home Web Development opportunities<br>⚡ Fun fact<br>I turn ideas into websites faster than my code compiles 😄⚡
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahid-2153&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
