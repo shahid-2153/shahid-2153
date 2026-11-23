@@ -7,7 +7,7 @@ A computer science student who enjoys bringing ideas to life on the web and lear
 🌱 Exploring JavaScript and expanding my development skills  
 🛠️ Always experimenting with new ideas and building projects  
 
-**🌊 Small steps, real projects, constant progress.**
+** 🌊 "Small steps, real projects, constant progress."**
 
 ---
 
