@@ -1,14 +1,13 @@
-# 💫 About Me
+# 👨‍💻 Hey, I'm Shahid
 
-Hi 👋, I'm **Shahid Mushtaq**
+A computer science student who enjoys bringing ideas to life on the web and learning by making things that actually work.
 
-🎓 B.Tech Computer Science Engineering Student (3rd Year)  
-💻 Frontend Developer & Project Builder  
-🌱 Learning JavaScript and modern web development  
-🚀 Building practical projects and improving through hands-on work  
-📚 Diploma in Computer Science Engineering  
+🎓 Pursuing B.Tech in Computer Science Engineering  
+🧩 Focused on frontend development and web applications  
+🌱 Exploring JavaScript and expanding my development skills  
+🛠️ Always experimenting with new ideas and building projects  
 
-🌊 *“Learn by building. Improve with every project.”*
+*“Small steps, real projects, constant progress.”*
 
 ---
 
@@ -53,10 +52,3 @@ Hi 👋, I'm **Shahid Mushtaq**
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahid-2153&theme=radical&bg_color=00000000&hide_border=false&layout=compact" width="36.5%" alt="Top languages" />
 </p>
 
----
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid2153)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=firefox&logoColor=white)](https://shahidmushtaq.in)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidmushtaq2155@gmail.com)
