@@ -4,7 +4,7 @@ A computer science student who enjoys bringing ideas to life on the web and lear
 
 🎓 Pursuing B.Tech in Computer Science Engineering  
 🧩 Focused on frontend development and web applications  
-🌱 Exploring JavaScript and expanding my development skills  
+💡 Interested in creating clean, responsive, and user-friendly digital experiences  
 🛠️ Always experimenting with new ideas and building projects  
 
 ** 🌊 "Small steps, real projects, constant progress."**
